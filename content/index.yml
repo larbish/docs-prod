@@ -2,7 +2,7 @@ title: 'Nuxt UI Pro - Docs template'
 description: 'Welcome to Nuxt UI Pro documentation template.'
 navigation: false
 hero:
-  title: 'Production test :br [Docs template]{.text-primary}'
+  title: 'Production main branch :br [Docs template]{.text-primary}'
   description: 'Create your documentation in seconds with this template!'
   orientation: horizontal
   links:
