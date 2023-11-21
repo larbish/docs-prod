@@ -2,13 +2,14 @@ title: 'Nuxt UI Pro - Docs template'
 description: 'Welcome to Nuxt UI Pro documentation template.'
 navigation: false
 hero:
-  title: 'Production main branch :br [Docs template]{.text-primary}'
+  title: 'Production main branch :br [Docs template]{.text-blue-500}'
   description: 'Create your documentation in seconds with this template!'
   orientation: horizontal
   links:
     - label: 'Get started'
       icon: 'i-heroicons-rocket-launch'
       to: '/getting-started'
+      color: blue
       size: lg
     - label: 'Documentation'
       icon: 'i-simple-icons-nuxtdotjs'
